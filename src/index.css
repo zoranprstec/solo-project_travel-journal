@@ -2,3 +2,85 @@ body {
   margin: 0;
   font-family: 'Inter', sans-serif;
 }
+
+/* ---NAVBAR--- */
+
+nav {
+  display: flex;
+  height: 55px;
+  background-color:#228B22;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+  color: #FFFFFF;
+}
+
+.nav--logo {
+  max-width: 24px;
+  margin: 7px;
+}
+
+/* ---CARD--- */
+
+.card {
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+}
+
+.card--all {
+  margin-left: 40px;
+}
+
+.card-img > img {
+  width: 400px;
+}
+
+.card-location {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 4px;
+}
+
+.card-location > a {
+  margin-left: 8px;
+  font-size: 11px;
+  color: #918E9B;
+}
+
+.card-location > p {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+  color: #2B283A;
+}
+
+.card-details {
+  margin: 20px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #2B283A;
+}
+
+.card-details > h1 {
+  font-size: 25px;
+  color: #2B283A;
+}
+
+.card-details > h4 {
+  font-size: 12px;
+  line-height: 12px;
+  color: #2B283A;
+}
+
+.crta {
+  border: 1px solid #F5F5F5;
+}
+
+

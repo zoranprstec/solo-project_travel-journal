@@ -5,7 +5,7 @@ import klet from './images/klet.png'
 export default [
     {
         title: "Luxembourg Old City",
-        location: "Luxembourg",
+        location: "LUXEMBOURG",
         googleMapsUrl: "https://goo.gl/maps/hH3YwEVxo8FdpTsc6",
         startDate: "28.06.2020.",
         endDate: "",
@@ -16,7 +16,7 @@ export default [
     },
     {
         title: "Saar River",
-        location: "Somewhere in Saarland",
+        location: "SAARLAND",
         googleMapsUrl: "https://goo.gl/maps/dFaxLfJ5AMFGXELc9",
         startDate: "01.06.2020.",
         endDate: undefined,
@@ -27,7 +27,7 @@ export default [
     },
     {
         title: "Moja klet",
-        location: "Petkovec",
+        location: "PETKOVEC",
         googleMapsUrl: "https://goo.gl/maps/XgMeEVEeBWM3XsQf6",
         startDate: "1996.",
         endDate: "danas",
